@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indexmolluscorum00dunk_0355.png"; bbox 0 0 2379 3382; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 622 165 749">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 622 165 749">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 622 165 749; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 131 622 165 749; x_wconf 35' lang='grc' dir='ltr'>ἥψω-ΡΧ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 622 2001 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 622 2001 2680">
+     <span class='ocr_line' id='line_1_2' title="bbox 368 622 2001 2680; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 368 622 2001 2680; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2124 1489 2163 2021">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2124 1489 2163 2021">
+     <span class='ocr_line' id='line_1_3' title="bbox 2124 1489 2163 2021; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 2124 1987 2149 2021; x_wconf 49' lang='lat' dir='ltr'>m&gt;</span> <span class='ocrx_word' id='word_1_4' title='bbox 2125 1906 2150 1973; x_wconf 60' lang='lat'>030</span> <span class='ocrx_word' id='word_1_5' title='bbox 2126 1788 2163 1891; x_wconf 56' lang='lat'>:3007</span> <span class='ocrx_word' id='word_1_6' title='bbox 2128 1631 2154 1774; x_wconf 63' lang='grc' dir='ltr'>,ΞἯΞΟΞ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2131 1489 2156 1606; x_wconf 57' lang='grc' dir='ltr'>ΓωΞῶἿ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
